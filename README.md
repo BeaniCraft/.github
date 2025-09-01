@@ -16,7 +16,11 @@
 
 ###
 
-<p align="left">* Creating bugs since the beginning of time. <br>* Developing for Taiko simulators. <br>* ~~Using stack overflow to fix all of my problems~~</p>
+<ul align="left">
+  <li>Creating bugs since the beginning of time.</li>
+  <li>Developing for Taiko simulators.</li>
+  <li><s>Using stack overflow to fix all of my problems.</s></li>
+</ul>
 
 ###
 
